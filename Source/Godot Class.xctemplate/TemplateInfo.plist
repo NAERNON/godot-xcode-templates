@@ -61,6 +61,8 @@
 			<string>text</string>
 			<key>NotPersisted</key>
 			<true/>
+			<key>Default</key>
+			<string>object</string>
 		</dict>
 		<dict>
 			<key>Identifier</key>
@@ -72,15 +74,9 @@
 			<key>Description</key>
 			<string>What class to subclass in the new file</string>
 			<key>Type</key>
-			<string>class</string>
+			<string>text</string>
 			<key>Default</key>
 			<string>Object</string>
-			<key>Values</key>
-			<array>
-				<string>Object</string>
-				<string>RefCounted</string>
-				<string>Node3D</string>
-			</array>
 		</dict>
 	</array>
 </dict>
