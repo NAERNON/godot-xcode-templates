@@ -22,7 +22,7 @@
 	<array>
 		<dict>
 			<key>Identifier</key>
-			<string>fileName</string>
+			<string>productName</string>
 			<key>Required</key>
 			<true/>
 			<key>Name</key>
@@ -36,7 +36,7 @@
 		</dict>
 		<dict>
 			<key>Identifier</key>
-			<string>productName</string>
+			<string>className</string>
 			<key>Required</key>
 			<true/>
 			<key>Name</key>
@@ -66,7 +66,7 @@
 		</dict>
 		<dict>
 			<key>Identifier</key>
-			<string>godotSuperclass</string>
+			<string>superclassName</string>
 			<key>Required</key>
 			<true/>
 			<key>Name</key>
